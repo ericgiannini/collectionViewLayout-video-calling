@@ -8,6 +8,8 @@
 
 import UIKit
 
+let AppID = ""
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
